@@ -4,12 +4,12 @@ languages:
 - java
 products:
 - azure
-services: Rediscache
-platforms: java
-author: yaohaizh
+extensions:
+- services: Rediscache
+- platforms: java
 ---
 
-## Getting Started with Rediscache - Manage Redis Cache - in Java ##
+# Getting Started with Rediscache - Manage Redis Cache - in Java #
 
 
   Azure Redis sample for managing Redis Cache:
