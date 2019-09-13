@@ -4,9 +4,8 @@ languages:
 - java
 products:
 - azure
-extensions:
-- services: Rediscache
-- platforms: java
+description: "Getting Started with Rediscache - Manage Redis Cache - in Java"
+urlFragment: redis-java-manage-cache
 ---
 
 # Getting Started with Rediscache - Manage Redis Cache - in Java #
