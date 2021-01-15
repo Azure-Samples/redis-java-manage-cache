@@ -5,8 +5,8 @@ languages:
 products:
 - azure
 extensions:
-  services: Rediscache
-  platforms: java
+- services: Rediscache
+- platforms: java
 ---
 
 # Getting Started with Rediscache - Manage Redis Cache - in Java #
